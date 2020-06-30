@@ -1,0 +1,15 @@
+C:\Users\Milos\source\repos\ozposlovi\DataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.deps.json
+C:\Users\Milos\source\repos\ozposlovi\DataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.dll
+C:\Users\Milos\source\repos\ozposlovi\DataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.csprojAssemblyReference.cache
+C:\Users\Milos\source\repos\ozposlovi\DataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.AssemblyInfoInputs.cache
+C:\Users\Milos\source\repos\ozposlovi\DataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.AssemblyInfo.cs
+C:\Users\Milos\source\repos\ozposlovi\DataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.runtimeconfig.json
+C:\Users\Milos\source\repos\ozposlovi\DataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.runtimeconfig.dev.json
+C:\Users\Milos\source\repos\ozposlovi\DataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.genruntimeconfig.cache
+C:\Users\Milos\source\repos\ozposlovi\DataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.pdb
+C:\Users\Milos\source\repos\ozposlovi\DataAccess\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Milos\source\repos\ozposlovi\DataAccess\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Milos\source\repos\ozposlovi\DataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\ozposlovi\DataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.csproj.CopyComplete
+C:\Users\Milos\source\repos\ozposlovi\DataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.dll
+C:\Users\Milos\source\repos\ozposlovi\DataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.pdb
