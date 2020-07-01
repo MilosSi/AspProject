@@ -74,7 +74,7 @@ namespace OzPoslovi.Core
                 audience: "Any",
                 claims: claims,
                 notBefore: now,
-                expires: now.AddSeconds(120),
+                expires: now.AddSeconds(1200),
                 signingCredentials: credentials);
 
             return new JwtSecurityTokenHandler().WriteToken(token);
